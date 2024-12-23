@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mutiarhm122
 - 👀 I’m interested in Data Analyst
-- 🌱 I’m currently learning RStudio
+- 🌱 I’m currently learning RStudio & Phyton
 - 💭 Ask me about anything related to Data Analyst
 
 <!---

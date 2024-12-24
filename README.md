@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @mutiarhm122
+# 👋 Hi, I’m Mutiara Rahma
 
 ## 💫 About Me:
 - 👀 I’m interested in Data Analyst
